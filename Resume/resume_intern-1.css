@@ -1,0 +1,265 @@
+html{
+}
+body{
+	font-family: Tahoma, sans-serif;
+	font-size:87%;
+	/*background-image: url("https://wallpaperplay.com/walls/full/c/c/6/28157.jpg");
+}
+/*.Content{
+	width: 940px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #FFF;
+	padding-left: 40px;
+	padding-right: 40px;
+	box-sizing: border-box;*/
+}
+
+/* header section */
+.headr{
+	background-color: #CDCDCD;
+}
+header {
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 40px;
+	padding-right: 40px;
+	box-sizing: border-box;
+}
+header h1{
+	text-align: center;
+	padding:20px 20px ;
+	border-bottom: 3px solid #000;
+}
+.under_line{
+	border-bottom:  3px solid #000;
+	padding-bottom : 30px;
+}
+.max-wid{
+	width:940px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.about {
+	width: 940px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 40px;
+	padding-right: 40px;
+	box-sizing: border-box;
+}
+.firstName{
+	color : #FF0000;
+}
+
+/* DROP DOWN TRY 
+.drop-donw{
+	border :1px solid #000;
+}
+
+.drop-donw ul{
+	font-size : 15px;
+	margin:0;
+	padding:0;
+}
+.drop-donw li{
+	list-style: none;
+}
+
+.list-name{
+	padding:5px 10px;
+	border :1px solid #000;
+	text-align: center;
+}
+.list-name a{
+	text-decoration: none;
+	transition: all 2s linear;
+}
+.list-name a:hover{
+	transition:all 2s;
+}
+
+.main-show{
+	width:90%;
+	float:left;
+	padding-left :100px;
+}
+.side-show{
+	width:10%;
+	float:left;
+} */
+/* Intro */
+.Intro {
+	width:27%;
+	float:left;
+	padding : 5px 5px;
+	margin-right: 50px;
+}
+.edu {
+	border-left: 3px #eee solid;
+	padding-left: 30px;
+	margin-bottom: 30px;
+}
+.linkedin {
+	border-left: 3px #eee solid;
+	padding-left: 30px;
+	margin-bottom: 30px;
+}
+.eid {
+	border-left: 3px #eee solid;
+	padding-left: 30px;
+	margin-bottom: 30px;
+}
+.linkedin_profile {
+	text-decoration: underline;
+}
+
+/* end intro */
+
+/* Site-Nav 
+
+*/
+
+
+/*
+.site-nav{
+	margin-top:20px;
+}
+
+.big_text{
+	font-size: 150%;
+}
+
+.site-nav ul{
+	margin:0;
+	padding:0;
+}
+.site-nav li{
+	list-style: none;
+	float:left;
+	margin-right:165px;
+}
+.margin--left{
+	margin-left: 22px ;
+}
+.margin--right {
+	margin-left:17px;
+}
+.site-nav a{
+	display: block;
+	color:#617140;
+	text-decoration: none;
+	border:3px solid #e5e9dc;
+	border-bottom:0;
+	padding:10px 20px;
+	box-sizing: border-box;
+}
+.site-nav a:hover{
+	background-color: #e5e9dc
+}
+
+/* End Site-Nav */
+
+/* resume */
+.resume_short{
+	background-color: #D57878 ;
+	padding-bottom: 20px;
+}
+.helloworld{
+	font-size: 120%;
+	text-align: center;	
+	padding-top: 20px;
+	text-decoration: none;
+	font-style: italic;
+}
+.space_box {
+	padding:20px 20px;
+	margin-bottom: 10px;
+	box-sizing: border-box;
+}
+.board{
+	padding-top:15px;
+	background-color: #D1D1D1;
+	width: 600px;
+	height:auto;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 4px;	
+	padding-bottom: 15px;
+}
+.code_type{
+	background-color: #444B50 ;
+	width: 600px;
+	height:auto ;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	padding-left: 5px;
+	box-sizing: border-box;
+	color:#fff;
+}
+.helloworld{
+	font-size: 120%;
+}
+.def{
+	color: #B637FF;
+}
+.introblue {
+	color :#89D2FF;
+	text-decoration: none;
+}
+/* CV */
+.resume_cv a{
+	width: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #FFF;
+	padding:20px 20px;
+	box-sizing: border-box;
+	text-align: center;
+	border-radius: 5px;
+	display: block;
+	text-decoration: none;
+	transition:all 2s;
+}
+.resume_cv a:hover{
+	background-color: #000;
+	text-decoration: none;
+	color : #fff ;
+	transform: translateY(0%);
+	opacity: 1;
+}
+/* end CV */
+
+/* end resume */
+
+
+
+
+.fix{
+	clear:both;
+}
+.group:before,
+.group:after {
+	content: "";
+	display: table;
+}
+
+.group:after {
+	clear: both;
+}
+
+.group {
+	zoom: 1;
+}
+
+
+
+
+
+
+
+
+
+
